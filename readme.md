@@ -1,0 +1,1 @@
+Implementación de un ETL - Consulta RUC, con el proceso de validación del nr ruc por medio de una api y registrando en una base de datos
